@@ -1,0 +1,18 @@
+$colorText: rgba(0,0,0,0.8);
+$sizeTitle: 50px;
+$wSizeImmaginine: 140px;
+$fontImmaginine: 18px;
+$immaginDopoImmagininew: 280px;
+$bordotranspa: 1px solid rgba(0,0,0,0.1);
+$larghezzaImmgMedie: 270px;
+@mixin h3{
+  font-size:22px;
+  font-weight: 100;
+}
+@mixin buttons{
+  padding: 5px 10px;
+  background-color: #30488f;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+}
